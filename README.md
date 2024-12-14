@@ -1,6 +1,6 @@
 # Disperse
 
-A modular system for processing WAX token transfers using CSV files. This system allows you to configure token transfers and process them in batch using a CSV file for recipient information.
+Disperse is a flexible tool designed to simplify bulk WAX token transfers by processing recipient details from CSV files. It enables users to configure token parameters and execute batch transfers efficiently, complete with detailed transaction feedback.
 
 ## Features
 
