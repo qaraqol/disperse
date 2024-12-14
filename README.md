@@ -1,6 +1,6 @@
-# EOSJS Transaction System
+# Disperse
 
-A modular system for processing EOS token transfers using CSV files. This system allows you to configure token transfers and process them in batch using a CSV file for recipient information.
+A modular system for processing WAX token transfers using CSV files. This system allows you to configure token transfers and process them in batch using a CSV file for recipient information.
 
 ## Features
 
