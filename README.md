@@ -30,13 +30,17 @@ Update `config.js` with your values:
 
 ```javascript
 export const config = {
-  rpcApi: "your_rpc_endpoint",
-  privateKey: "your_private_key",
-  senderName: "your_account",
-  tokenName: "WAX",
-  memo: "Your default memo",
+  rpcApi: "https://wax.qaraqol.com",
+  privateKey: "",
+  senderName: "",
+  contractName: "alien.worlds",
+  tokenName: "TLM",
+  tokenPrecision: 4, //Common precision values: 8 for WAX and 4 for TLM
+  memo: "Disperse",
 };
 ```
+
+Note: You need to add the precision.
 
 ## CSV Format
 
