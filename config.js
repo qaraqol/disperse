@@ -1,4 +1,3 @@
-// config.js
 export const config = {
   rpcApi: "https://wax.qaraqol.com",
   privateKey: "",

@@ -1,7 +1,6 @@
 import { config } from "./config.js";
 import { processTransactionsFromCSV } from "./csv-processor.js";
 
-// Example usage
 async function main() {
   try {
     await processTransactionsFromCSV("receivers.csv", config);

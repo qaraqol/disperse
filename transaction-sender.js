@@ -1,4 +1,3 @@
-// transaction-sender.js
 import { Api, JsonRpc } from "eosjs";
 const { JsSignatureProvider } = require("eosjs/dist/eosjs-jssig");
 export async function sendTransaction({ rpcApi, privateKey, transaction }) {
